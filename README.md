@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksingh-it&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksingh-it" /> </p>
 
-- 💬 Ask me about **c , C++, java,react etc**
+- 💬 Ask me about C , C++, java,HTML,CSS,javascript,react etc**
 
 - 📫 How to reach me **abhisheksingh.it95@gmail.com**
 
